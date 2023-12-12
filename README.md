@@ -10,4 +10,4 @@ Audio classification and Speech Emotion Recognition (S.E.R) play pivotal roles i
 processing, with applications spanning music genre classification, speech recognition, and
 emotional analysis. Leveraging deep learning, particularly CNNs and RNNs, enhances
 performance in these tasks. Input representation, whether MFCCs, mel-spectrograms, or raw
-audio, significantly influences model performance. In this project, we developed a CNN that took in mel-spectrogram images as input. 
+audio, significantly influences model performance. In this project, we engineered a Convolutional Neural Network (CNN) designed to evaluate the efficacy of utilizing mel-spectrogram images as input for discerning emotional nuances in audio.
